@@ -22,7 +22,7 @@ El objetivo de negocio es evaluar el rendimiento operativo, logístico y financi
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+   git clone https://github.com/gianpierreSO/AnalisisTiendasPython.git
 
 2. Asegúrate de tener instaladas las dependencias necesarias. Puedes instalarlas ejecutando:
   
