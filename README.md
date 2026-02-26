@@ -26,9 +26,13 @@ El objetivo de negocio es evaluar el rendimiento operativo, logístico y financi
 
 2. Asegúrate de tener instaladas las dependencias necesarias. Puedes instalarlas ejecutando:
   
-  ```bash
-  pip install pandas matplotlib seaborn
+   ```bash
+   pip install pandas matplotlib seaborn 
 
+3. Abre el archivo principal del proyecto utilizando Jupyter Notebook o Jupyter Lab:
+
+    ```bash
+    jupyter notebook AluraStoreLatam.ipynb
 
 ## Resultados Clave (Insights)
 El Motor Financiero: La Tienda 1 lidera indiscutiblemente la facturación global con más de $1.15 mil millones en ingresos.
